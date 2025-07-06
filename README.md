@@ -2,8 +2,6 @@
 
 Hi 👋, I'm Aaron J.
 
-🌐 **Socials:**
-
 ---
 
 💻 **Tech Stack:**
