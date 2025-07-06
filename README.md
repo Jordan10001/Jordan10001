@@ -15,8 +15,7 @@ Hi 👋, I'm Aaron J.
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![ScyllaDB](https://img.shields.io/badge/ScyllaDB-5B57A6?style=for-the-badge&logoColor=white)
-
+![ScyllaDB](https://img.shields.io/badge/ScyllaDB-48C5F7?style=for-the-badge&logoColor=white)
 
 
 
