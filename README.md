@@ -19,7 +19,6 @@ Hi 👋, I'm Aaron J.
 
 
 
-![ScyllaDB](https://img.shields.io/badge/ScyllaDB-5B57A6?style=for-the-badge&label=ScyllaDB&logo=data:image/svg+xml;base64,...)
 
 ---
 
