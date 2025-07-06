@@ -17,6 +17,10 @@ Hi 👋, I'm Aaron J.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ScyllaDB](https://img.shields.io/badge/ScyllaDB-5B57A6?style=for-the-badge&logoColor=white)
 
+
+
+![ScyllaDB](https://img.shields.io/badge/ScyllaDB-5B57A6?style=for-the-badge&label=ScyllaDB&logo=data:image/svg+xml;base64,...)
+
 ---
 
 <!-- 
