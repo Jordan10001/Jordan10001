@@ -30,7 +30,7 @@ Hi 👋, I'm Aaron J.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
+**AI/ML/DL/DM :**
 
 ---
 **Plan To Learn:**
