@@ -1,5 +1,8 @@
 ## ✨👋 About Me:
 
+<p align="center">
+  <img src="assets/header.svg" width="100%">
+</p>
 ---
 
 Hi there, I'm Aaron Jordan 👋
