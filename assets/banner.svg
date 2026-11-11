@@ -36,8 +36,8 @@
 <text class="moving" x="500" y="105" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700" letter-spacing=".4" fill="url(#name)">Aaron Jordan</text>
 <text class="still" x="500" y="105" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700" letter-spacing=".4" fill="#DDEBC4">Aaron Jordan</text>
 
-<text class="moving" x="500" y="149" text-anchor="middle" font-family="Consolas,'Courier New',monospace" font-size="18" letter-spacing="2" fill="#C9D9B5" clip-path="url(#type)">fill="#C9D9B5">Data Science, Engineering &amp; Analytics</text>
-<text class="still" x="500" y="149" text-anchor="middle" font-family="Consolas,'Courier New',monospace" font-size="18" letter-spacing="2" fill="#C9D9B5">Data Science, Engineering &amp; Analytics</text>
+<text class="moving" x="500" y="149" text-anchor="middle" font-family="Consolas,'Courier New',monospace" font-size="18" letter-spacing="2" fill="#C9D9B5" clip-path="url(#type)">fill="#C9D9B5">DS,DE &amp;DA</text>
+<text class="still" x="500" y="149" text-anchor="middle" font-family="Consolas,'Courier New',monospace" font-size="18" letter-spacing="2" fill="#C9D9B5">DS,DE &amp;DA</text>
 <rect class="moving" x="346" y="133" width="2" height="20" fill="#C5DE9A"><animate attributeName="x" values="346;650;650;346" keyTimes="0;.45;.9;1" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur=".8s" repeatCount="indefinite"/></rect>
 
 <rect x="500" y="184" width="0" height="2" rx="1" fill="url(#line)"><animate attributeName="x" values="500;285;285;500" keyTimes="0;.4;.8;1" dur="5s" repeatCount="indefinite"/><animate attributeName="width" values="0;430;430;0" keyTimes="0;.4;.8;1" dur="5s" repeatCount="indefinite"/></rect>
