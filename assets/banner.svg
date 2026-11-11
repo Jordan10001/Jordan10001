@@ -1,46 +1,56 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-labelledby="title desc">
-<title id="title">Aaron Jordan — Data Science, Engineering and Analytics </title>
-<desc id="desc">Aaron Jordan. Data Science, Engineering and Analytics </desc>
+<title id="title">Aaron Jordan — Data Science, Engineering and Analytics</title>
+<desc id="desc">Aaron Jordan. Data Science, Data Engineering and Data Analytics</desc>
 <style>.still{display:none}@media(prefers-reduced-motion:reduce){.moving{display:none}.still{display:inline}}</style>
 <defs>
-<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0E1A13"/><stop offset="1" stop-color="#1C3024"/></linearGradient>
-<linearGradient id="name" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="260" y2="0">
-<animateTransform attributeName="gradientTransform" type="translate" values="150 0;1000 0" dur="4s" repeatCount="indefinite"/>
-<stop stop-color="#A9C77E"/><stop offset=".5" stop-color="#F7FFE6"/><stop offset="1" stop-color="#A9C77E"/>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#041A1C"/><stop offset="1" stop-color="#0B3D3F"/></linearGradient>
+<linearGradient id="name" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="300" y2="0">
+<animateTransform attributeName="gradientTransform" type="translate" values="-300 0;1000 0" dur="3s" repeatCount="indefinite"/>
+<stop stop-color="#2DD4BF"/><stop offset=".5" stop-color="#F0FDFA"/><stop offset="1" stop-color="#2DD4BF"/>
 </linearGradient>
-<linearGradient id="line"><stop stop-color="#8DB360" stop-opacity="0"/><stop offset=".5" stop-color="#C5DE9A"/><stop offset="1" stop-color="#8DB360" stop-opacity="0"/></linearGradient>
-<radialGradient id="glow"><stop stop-color="#8DB360" stop-opacity=".35"/><stop offset="1" stop-color="#8DB360" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow"><stop stop-color="#14B8A6" stop-opacity=".45"/><stop offset="1" stop-color="#14B8A6" stop-opacity="0"/></radialGradient>
 <clipPath id="frame"><rect width="1000" height="230" rx="14"/></clipPath>
-<clipPath id="type"><rect x="340" y="120" width="0" height="40"><animate attributeName="width" values="0;320;320;0" keyTimes="0;.45;.9;1" dur="6s" repeatCount="indefinite"/></rect></clipPath>
 </defs>
 <g clip-path="url(#frame)">
 <rect width="1000" height="230" fill="url(#bg)"/>
-<ellipse cx="500" cy="115" rx="400" ry="190" fill="url(#glow)"/>
 
-<g class="moving" fill="#B7D58C">
-<circle cx="90" cy="240" r="4" opacity="0"><animate attributeName="cy" values="240;-10" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.6;0" dur="7s" repeatCount="indefinite"/></circle>
-<circle cx="190" cy="240" r="2.5" opacity="0"><animate attributeName="cy" values="240;-10" dur="5s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.5;0" dur="5s" begin="1s" repeatCount="indefinite"/></circle>
-<circle cx="290" cy="240" r="5" opacity="0"><animate attributeName="cy" values="240;-10" dur="8s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.4;0" dur="8s" begin="2s" repeatCount="indefinite"/></circle>
-<circle cx="410" cy="240" r="3" opacity="0"><animate attributeName="cy" values="240;-10" dur="6s" begin=".5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.6;0" dur="6s" begin=".5s" repeatCount="indefinite"/></circle>
-<circle cx="590" cy="240" r="3.5" opacity="0"><animate attributeName="cy" values="240;-10" dur="7s" begin="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.5;0" dur="7s" begin="3s" repeatCount="indefinite"/></circle>
-<circle cx="700" cy="240" r="5" opacity="0"><animate attributeName="cy" values="240;-10" dur="9s" begin="1.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.4;0" dur="9s" begin="1.5s" repeatCount="indefinite"/></circle>
-<circle cx="800" cy="240" r="2.5" opacity="0"><animate attributeName="cy" values="240;-10" dur="5.5s" begin="2.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.6;0" dur="5.5s" begin="2.5s" repeatCount="indefinite"/></circle>
-<circle cx="900" cy="240" r="4" opacity="0"><animate attributeName="cy" values="240;-10" dur="7.5s" begin="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.5;0" dur="7.5s" begin="4s" repeatCount="indefinite"/></circle>
+<g class="moving">
+<ellipse cx="500" cy="115" rx="420" ry="190" fill="url(#glow)">
+<animate attributeName="opacity" values=".5;1;.5" dur="4s" repeatCount="indefinite"/>
+</ellipse>
+<ellipse cx="500" cy="115" rx="170" ry="70" fill="none" stroke="#5EEAD4" stroke-opacity=".2"/>
+<ellipse cx="500" cy="115" rx="170" ry="70" fill="none" stroke="#5EEAD4" stroke-opacity=".5">
+<animate attributeName="rx" values="170;300;170" dur="5s" repeatCount="indefinite"/>
+<animate attributeName="ry" values="70;110;70" dur="5s" repeatCount="indefinite"/>
+<animate attributeName="stroke-opacity" values=".5;0;.5" dur="5s" repeatCount="indefinite"/>
+</ellipse>
+<circle r="5" fill="#5EEAD4">
+<animateMotion dur="6s" repeatCount="indefinite" path="M330 115 a170 70 0 1 0 340 0 a170 70 0 1 0 -340 0"/>
+</circle>
+<circle r="3.5" fill="#99F6E4">
+<animateMotion dur="6s" begin="-3s" repeatCount="indefinite" path="M330 115 a170 70 0 1 0 340 0 a170 70 0 1 0 -340 0"/>
+</circle>
 </g>
 
 <g class="moving">
-<circle cx="500" cy="115" r="150" fill="none" stroke="#8DB360" stroke-opacity=".18" stroke-dasharray="4 10"><animateTransform attributeName="transform" type="rotate" from="0 500 115" to="360 500 115" dur="40s" repeatCount="indefinite"/></circle>
-<circle cx="500" cy="115" r="190" fill="none" stroke="#C5DE9A" stroke-opacity=".1" stroke-dasharray="2 14"><animateTransform attributeName="transform" type="rotate" from="360 500 115" to="0 500 115" dur="60s" repeatCount="indefinite"/></circle>
+<text x="500" y="112" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="50" font-weight="700" letter-spacing=".4" fill="url(#name)">Aaron Jordan
+<animate attributeName="y" values="112;106;112" dur="4s" repeatCount="indefinite"/>
+</text>
+
+<text x="500" y="158" text-anchor="middle" font-family="Consolas,'Courier New',monospace" font-size="20" letter-spacing="3" fill="#99F6E4" opacity="0">Data Science
+<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.05;.28;.33;1" dur="9s" repeatCount="indefinite"/>
+</text>
+<text x="500" y="158" text-anchor="middle" font-family="Consolas,'Courier New',monospace" font-size="20" letter-spacing="3" fill="#99F6E4" opacity="0">Data Engineering
+<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.05;.28;.33;1" dur="9s" begin="3s" repeatCount="indefinite"/>
+</text>
+<text x="500" y="158" text-anchor="middle" font-family="Consolas,'Courier New',monospace" font-size="20" letter-spacing="3" fill="#99F6E4" opacity="0">Data Analytics
+<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.05;.28;.33;1" dur="9s" begin="6s" repeatCount="indefinite"/>
+</text>
 </g>
 
-<text class="moving" x="500" y="105" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700" letter-spacing=".4" fill="url(#name)">Aaron Jordan</text>
-<text class="still" x="500" y="105" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700" letter-spacing=".4" fill="#DDEBC4">Aaron Jordan</text>
-
-<text class="moving" x="500" y="149" text-anchor="middle" font-family="Consolas,'Courier New',monospace" font-size="18" letter-spacing="2" fill="#C9D9B5" clip-path="url(#type)">fill="#C9D9B5">DS,DE &amp;DA</text>
-<text class="still" x="500" y="149" text-anchor="middle" font-family="Consolas,'Courier New',monospace" font-size="18" letter-spacing="2" fill="#C9D9B5">DS,DE &amp;DA</text>
-<rect class="moving" x="346" y="133" width="2" height="20" fill="#C5DE9A"><animate attributeName="x" values="346;650;650;346" keyTimes="0;.45;.9;1" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur=".8s" repeatCount="indefinite"/></rect>
-
-<rect x="500" y="184" width="0" height="2" rx="1" fill="url(#line)"><animate attributeName="x" values="500;285;285;500" keyTimes="0;.4;.8;1" dur="5s" repeatCount="indefinite"/><animate attributeName="width" values="0;430;430;0" keyTimes="0;.4;.8;1" dur="5s" repeatCount="indefinite"/></rect>
-<rect class="still" x="285" y="184" width="430" height="2" rx="1" fill="url(#line)"/>
+<g class="still">
+<text x="500" y="112" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="50" font-weight="700" letter-spacing=".4" fill="#CCFBF1">Aaron Jordan</text>
+<text x="500" y="158" text-anchor="middle" font-family="Consolas,'Courier New',monospace" font-size="20" letter-spacing="3" fill="#99F6E4">Data Science · Engineering · Analytics</text>
+</g>
 </g>
 </svg>
