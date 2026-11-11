@@ -65,12 +65,12 @@ I'm interested in Data Engineering, Data Analytics, and Backend Development. I e
 
 ---
 
-***In Progres***
+### **In Progres**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-***Plan To Learn:***
+### **Plan To Learn:**
 
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -83,7 +83,7 @@ I'm interested in Data Engineering, Data Analytics, and Backend Development. I e
 
 ---
 
-***Connect With Me:***
+### **Connect With Me:**
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aaron-jordan-b828a1416)
 ![Website](https://img.shields.io/badge/Website-9CAF88?style=for-the-badge&logo=googlechrome&logoColor=white)
