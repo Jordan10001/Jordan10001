@@ -8,7 +8,7 @@ I'm interested in Data Engineering, Data Analytics, and Backend Development. I e
 
 ---
 
-#### **Tech Stack:**
+### **Tech Stack:**
 
 ***Frontend Development:***
 
